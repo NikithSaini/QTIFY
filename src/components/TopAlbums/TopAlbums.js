@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Card from "../CardComponent/CardComponent";
 import "./TopAlbums.css";
-// import Carousel from "../Carousel/Carousel";
+import Carousel from "../Carousel/Carousel";
 
 const TopAlbums = () => {
   const [data, setData] = useState([]);

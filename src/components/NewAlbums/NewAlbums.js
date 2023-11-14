@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Card from "../CardComponent/CardComponent";
 import "./NewAlbums.css";
-// import Carousel from "../Carousel/Carousel";
+import Carousel from "../Carousel/Carousel";
 
 const NewAlbums = () => {
   const [data, setData] = useState([]);
