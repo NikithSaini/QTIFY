@@ -22,6 +22,7 @@
     "react-scripts": "^5.0.1",
     "stream": "^0.0.2",
     "stream-browserify": "^3.0.0",
+    "swiper": "^11.0.4",
     "url": "^0.11.0"
   },
   "devDependencies": {
